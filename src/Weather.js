@@ -1,6 +1,7 @@
 import React from "react";
 import "./Weather.css";
 import ReactAnimatedWeather from "react-animated-weather";
+import WeatherByDays from "./WeatherByDays";
 
 export default function Weather() {
   let weatherData = {
@@ -71,6 +72,7 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <WeatherByDays />
     </div>
   );
 }
