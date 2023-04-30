@@ -19,7 +19,7 @@ export default function Footer() {
       </a>{" "}
       and hosted by{" "}
       <a
-        href="https://ornate-vacherin-42da36.netlify.app"
+        href="https://lively-cupcake-e68ff1.netlify.app/"
         target="_blank"
         rel="noreferrer"
       >
