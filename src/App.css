@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  height: 100%;
+}
+body {
+  display: block;
+  margin: 0 auto;
+  height: 100%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background: linear-gradient(
+      45deg,
+      #a5dab1 25%,
+      rgba(55, 214, 63, 0.726) 25%,
+      rgba(55, 214, 68, 0.726) 75%,
+      #0daf51 75%
+    ),
+    linear-gradient(
+      to top right,
+      #a5c1da 25%,
+      rgba(239, 239, 239, 0),
+      rgba(239, 239, 239, 0) 75%
+    );
+}
+h1 {
+  display: block;
+  margin: 0 auto;
+  color: white;
+  font-size: 40px;
+}
+ul {
+  margin: 0 0 20px;
+  padding: 0;
+  color: white;
+}
+li {
+  list-style: none;
+}
+a {
+  color: white;
+}
+.date {
+  text-align: left;
+}
+.container {
+  display: block;
+  min-width: 920px;
+  margin: 0 auto;
+  border-style: dotted;
+}
