@@ -14,7 +14,7 @@ export default function Footer() {
         Kehinde Oyeronke Osoba
       </a>
       and is{" "}
-      <a href="https://github.com/kenmillionaire/Portfolio-Project">
+      <a href="https://github.com/kenmillionaire/weather-react">
         Open-Sourced on Github
       </a>{" "}
       and hosted by{" "}
