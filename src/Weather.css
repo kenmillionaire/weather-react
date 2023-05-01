@@ -67,7 +67,7 @@
   display: block;
   margin-top: 90px;
 }
-.rectangle {
+/* .rectangle {
   width: 85%;
   height: 200px;
   border: 1px solid blue;
@@ -82,7 +82,7 @@
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
-}
+} */
 .parameters {
   display: block;
   margin: 0 10px 0 80px;
